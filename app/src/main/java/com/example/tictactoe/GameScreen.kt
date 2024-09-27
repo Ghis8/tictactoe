@@ -95,7 +95,7 @@ fun GameScreen(){
     }
 }
 
-@Preview
+@Preview(showBackground = true)
 @Composable
 fun GameScreenPrev(){
     GameScreen()
